@@ -51,10 +51,10 @@ Puedes visualizar el grafo de commits en forma de diagrama utilizando herramient
 
 ```mermaid
 graph TD;
-    A[Inicializar Repo] -->|git init| B(Crear Archivos);
-    B -->|git add .| C(Confirmar Cambios);
-    C -->|git commit -m "mensaje"| D{Historial};
-    D -->|git log --graph| E(Visualizar Cambios);
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
 ```
 ---
 
