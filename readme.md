@@ -1,4 +1,5 @@
 # Curso de Git ISMIE
+Usuario 2
 
 ![Git](/assets/gitLogo.png)
 
