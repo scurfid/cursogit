@@ -1,5 +1,7 @@
 # Curso de Git usu3
 
+Readme de usuario 3
+
 ![Git](/assets/gitLogo.png)
 
 
